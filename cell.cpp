@@ -7,8 +7,8 @@
 
 using namespace std::literals;
 
-std::ostream& operator<<(std::ostream& output, const CellInterface::Value& value) {
-    std::visit([&](const auto& x) { output << x; }, value);
+std::ostream &operator<<(std::ostream &output, const CellInterface::Value &value) {
+    std::visit([&](const auto &x) { output << x; }, value);
     return output;
 }
 
@@ -25,6 +25,8 @@ public:
     virtual std::vector<Position> GetReferencedCells() const {
         return {};
     }
+
+    virtual void InvalidateCache() {};
 };
 
 class Cell::EmptyImpl : public Impl {
@@ -64,14 +66,14 @@ private:
 class Cell::FormulaImpl : public Impl {
 public:
     explicit FormulaImpl(std::string str, const SheetInterface &sheet)
-            : formula_(ParseFormula(std::move(str)))
-            , sheet_(sheet) {}
+            : formula_(ParseFormula(std::move(str))), sheet_(sheet) {}
 
     Value GetValue() const override {
-        auto cell_interface_value = formula_->Evaluate(sheet_);
+        if (!cache_.has_value()) {
+            cache_ = formula_->Evaluate(sheet_);
+        }
         return std::visit(
-                [](const auto &formula_interface_value) {return Value(formula_interface_value);}
-                , cell_interface_value);
+                [](const auto &formula_interface_value) { return Value(formula_interface_value); }, cache_.value());
     }
 
     std::string GetText() const override {
@@ -82,17 +84,21 @@ public:
         return formula_->GetReferencedCells();
     }
 
+    void InvalidateCache() override {
+        cache_.reset();
+    }
+
 private:
     std::unique_ptr<FormulaInterface> formula_;
     const SheetInterface &sheet_;
-    std::optional<FormulaInterface::Value> cache_;
+    mutable std::optional<FormulaInterface::Value> cache_;
 };
 
-Cell::Cell(SheetInterface& sheet) : impl_(std::make_unique<EmptyImpl>()), sheet_(sheet) {}
+Cell::Cell(SheetInterface &sheet) : impl_(std::make_unique<EmptyImpl>()), sheet_(sheet) {}
 
 Cell::~Cell() {}
 
-void Cell::Set(const std::string& text) {
+void Cell::Set(const std::string &text) {
     if (text.empty()) {
         impl_ = std::make_unique<EmptyImpl>();
         return;
@@ -104,17 +110,20 @@ void Cell::Set(const std::string& text) {
         if (CircularDependency(*impl)) {
             throw CircularDependencyException("Circular dependency");
         }
+        //CircularDependency ok - store value
         impl_ = std::move(impl);
         //
         auto referenced_cells = impl_->GetReferencedCells();
         //create outref cells  if not exist
-        for (auto& cell : referenced_cells) {
+        for (auto &cell : referenced_cells) {
             if (!sheet_.GetCell(cell)) {
                 sheet_.SetCell(cell, {});
             }
         }
-        //
+        //update references
         FillCellsRefs();
+        //
+        InvalidateCache();
         //
         return;
     }
@@ -148,13 +157,13 @@ bool Cell::CircularDependency(const Cell::Impl &impl_) const {
         return false;
     }
     //make set of all cells in formula
-    std::unordered_set<const CellInterface*> refs;
+    std::unordered_set<const CellInterface *> refs;
     for (const auto &pos : get_referenced_cells) {
         refs.insert(sheet_.GetCell(pos));
     }
     //visit all cells and check circular references
-    std::unordered_set<const CellInterface*> visited;
-    std::stack<const CellInterface*> to_visit;
+    std::unordered_set<const CellInterface *> visited;
+    std::stack<const CellInterface *> to_visit;
     to_visit.push(this);
     while (!to_visit.empty()) {
         const CellInterface *current = to_visit.top();
@@ -163,8 +172,8 @@ bool Cell::CircularDependency(const Cell::Impl &impl_) const {
         if (refs.find(current) != refs.end()) {
             return true;
         }
-        auto& ref_cells = static_cast<const Cell*>(current)->inRefCells_;
-        for (auto& incoming : ref_cells) {
+        auto &ref_cells = static_cast<const Cell *>(current)->inRefCells_;
+        for (auto &incoming : ref_cells) {
             if (visited.find(incoming) == visited.end()) {
                 to_visit.push(incoming);
             }
@@ -175,12 +184,12 @@ bool Cell::CircularDependency(const Cell::Impl &impl_) const {
 
 void Cell::FillCellsRefs() {
     //first clear inref in all outgoing ref cells
-    for (auto& outgoing : outRefCells_) {
+    for (auto &outgoing : outRefCells_) {
         outgoing->inRefCells_.erase(this);
     }
     outRefCells_.clear();
     for (const auto &pos : impl_->GetReferencedCells()) {
-        auto outgoing = reinterpret_cast<Cell*>(sheet_.GetCell(pos));
+        auto outgoing = reinterpret_cast<Cell *>(sheet_.GetCell(pos));
         //update cross links
         outRefCells_.insert(outgoing);
         outgoing->inRefCells_.insert(this);
@@ -188,7 +197,10 @@ void Cell::FillCellsRefs() {
 }
 
 void Cell::InvalidateCache() {
-
+    impl_->InvalidateCache();
+    for (auto in_ref : inRefCells_) {
+        in_ref->InvalidateCache();
+    }
 }
 
 std::unique_ptr<Cell> CreateCell(SheetInterface &sheet) {

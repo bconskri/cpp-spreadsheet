@@ -44,5 +44,5 @@ private:
     void UpdateCellsRefs();
 
     //инвалидировать кэш рекурсивно по зависимым
-    void InvalidateCache();
+    void InvalidateCache() ;
 };
