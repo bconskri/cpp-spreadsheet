@@ -1,0 +1,1731 @@
+Start testing: Sep 29 21:06 MSK
+----------------------------------------------------------
+1/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>
+1/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/0" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/0
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/0 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>
+2/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/1" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/1
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/1 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>
+3/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/2" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/2
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/2 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>
+4/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/3" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/3
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/3 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>
+5/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/4" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/4
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/4 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>
+6/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/5" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/5
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/5 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>
+7/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/6" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/6
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/6
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/6 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>
+8/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/7" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/7
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/7
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/7 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>
+9/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/8" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/8
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/8
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/8 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>
+10/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/9" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/9
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/9
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/9 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>
+11/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/10" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/10
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/10
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/10 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>
+12/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/11" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/11
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/11
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/11 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>
+13/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/12" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/12
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/12
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/12 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>
+14/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/13" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/13
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/13
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/13 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>
+15/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/14" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/14
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/14
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/14 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>
+16/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/15" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/15
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/15
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/15 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>
+17/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/16" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/16
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/16
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/16 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>
+18/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/17" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/17
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/17
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/17 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>
+19/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/18" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/18
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/18
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/18 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>
+20/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/19" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/19
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/19
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/19 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>
+21/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/20" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/20
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/20
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/20 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>
+22/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/21" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/21
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/21
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/21 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>
+23/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/22" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/22
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/22
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/22 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>
+24/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/23" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/23
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/23
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/23 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>
+25/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/24" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/24
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/24
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/24 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>
+26/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/25" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/25
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/25
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/25 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>
+27/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/26" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/26
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/26
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/26 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>
+28/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/27" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/27
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/27
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/27 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>
+29/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/28" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/28
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/28
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/28 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>
+30/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/29" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/29
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/29
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/29 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>
+31/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/30" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/30
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/30
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/30 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/64 Testing: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>
+32/64 Test: Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8EncodeTest/Utf8EncodeTest.Compliance/31" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8EncodeTest/Utf8EncodeTest.Compliance/31
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest
+[ RUN      ] Utf8EncodeTest/Utf8EncodeTest.Compliance/31
+[       OK ] Utf8EncodeTest/Utf8EncodeTest.Compliance/31 (0 ms)
+[----------] 1 test from Utf8EncodeTest/Utf8EncodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8EncodeTest/Utf8EncodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>
+33/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/0" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/0
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/0
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/0 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0000-0000-0000-000F-72BD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>
+34/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/1" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/1
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/1 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0000-0000-0000-00A4-3CBD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>
+35/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/2" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/2
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/2 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7E-0000-0000-0000-00A6-3CBD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>
+36/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/3" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/3
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/3 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<7F-0000-0000-0000-00A8-3CBD-0701-0000-0001-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>
+37/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/4" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/4
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/4 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<80-0000-0000-0000-00AA-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>
+38/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/5" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/5
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/5 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<81-0000-0000-0000-00AD-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>
+39/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/6" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/6
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/6
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/6 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<BF-0000-0000-0000-00B0-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>
+40/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/7" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/7
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/7
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/7 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C0-0000-0000-0000-00B3-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>
+41/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/8" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/8
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/8
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/8 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C1-0000-0000-0000-00B6-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>
+42/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/9" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/9
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/9
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/9 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<C8-0000-0000-0000-00B9-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>
+43/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/10" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/10
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/10
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/10 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<D0-0000-0000-0000-00BC-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>
+44/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/11" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/11
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/11
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/11 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<E0-0000-0000-0000-00BF-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>
+45/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/12" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/12
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/12
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/12 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F0-0000-0000-0000-00C2-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>
+46/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/13" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/13
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/13
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/13 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<F8-0000-0000-0000-00C5-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>
+47/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/14" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/14
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/14
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/14 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0000-0000-0000-00C8-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>
+48/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/15" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/15
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/15
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/15 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0100-0000-0000-00CB-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>
+49/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/16" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/16
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/16
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/16 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-0700-0000-0000-00CE-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>
+50/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/17" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/17
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/17
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/17 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0400-0000-0000-00D1-3CBD-0701-0000-0002-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>
+51/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/18" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/18
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/18
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/18 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0800-0000-0000-00D4-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>
+52/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/19" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/19
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/19
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/19 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0800-0000-0000-00D8-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>
+53/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/20" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/20
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/20
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/20 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-1000-0000-0000-00DC-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>
+54/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/21" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/21
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/21
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/21 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-D000-0000-0000-00E0-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>
+55/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/22" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/22
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/22
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/22 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-D700-0000-0000-00E4-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>
+56/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/23" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/23
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/23
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/23 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-E000-0000-0000-00E8-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>
+57/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/24" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/24
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/24
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/24 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF00-0000-0000-00EC-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>
+58/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/25" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/25
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/25
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/25 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF00-0000-0000-00F0-3CBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>
+59/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/26" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/26
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/26
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/26 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0001-0000-0000-00F4-3CBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>
+60/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/27" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/27
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/27
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/27 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<01-0001-0000-0000-00F9-3CBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>
+61/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/28" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/28
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/28
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/28 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<00-0004-0000-0000-00FE-3CBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>
+62/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/29" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/29
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/29
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/29 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FE-FF10-0000-0000-0003-3DBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>
+63/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/30" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/30
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/30
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/30 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FF-FF10-0000-0000-0008-3DBD-0701-0000-0004-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/64 Testing: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>
+64/64 Test: Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>
+Command: "/Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime/antlr4_tests" "--gtest_filter=Utf8DecodeTest/Utf8DecodeTest.Compliance/31" "--gtest_also_run_disabled_tests"
+Directory: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/runtime
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>" start time: Sep 29 21:06 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Utf8DecodeTest/Utf8DecodeTest.Compliance/31
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest
+[ RUN      ] Utf8DecodeTest/Utf8DecodeTest.Compliance/31
+[       OK ] Utf8DecodeTest/Utf8DecodeTest.Compliance/31 (0 ms)
+[----------] 1 test from Utf8DecodeTest/Utf8DecodeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>" end time: Sep 29 21:06 MSK
+"Utf8DecodeTest/Utf8DecodeTest.Compliance/24-byteobject<FD-FF00-0000-0000-000D-3DBD-0701-0000-0003-0000-0000-0000-00>" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 29 21:06 MSK

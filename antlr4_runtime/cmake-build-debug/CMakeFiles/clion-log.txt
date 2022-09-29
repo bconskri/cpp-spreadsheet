@@ -1,0 +1,55 @@
+"/Applications/CLion 2.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime
+-- Building without demo. To enable demo build use: -DWITH_DEMO=True
+CMake Deprecation Warning at CMakeLists.txt:45 (CMAKE_POLICY):
+  The OLD behavior for policy CMP0054 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Deprecation Warning at CMakeLists.txt:46 (CMAKE_POLICY):
+  The OLD behavior for policy CMP0045 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Deprecation Warning at CMakeLists.txt:47 (CMAKE_POLICY):
+  The OLD behavior for policy CMP0042 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Deprecation Warning at CMakeLists.txt:52 (CMAKE_POLICY):
+  The OLD behavior for policy CMP0059 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+CMake Deprecation Warning at CMakeLists.txt:53 (CMAKE_POLICY):
+  The OLD behavior for policy CMP0054 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rodionkargapolov/CLionProjects/Yandex-praktikum/SpreadSheet_diplom/SpreadSheet_full/antlr4_runtime/cmake-build-debug
